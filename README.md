@@ -1,5 +1,5 @@
 # Google Cloud Folder IAM Terraform Module
-![Maintained by Priceline.com](https://img.shields.io/badge/maintained%20by-priceline.com-blue)
+![Maintained by Hassan-DevOps]
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.13-blue.svg)
 
 ## Usage
